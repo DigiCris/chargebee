@@ -1,0 +1,11 @@
+{
+    "item_family": {
+        "id": "comunyt-family",
+        "name": "Comunyt Demo Family",
+        "status": "active",
+        "resource_version": 1779468788258,
+        "updated_at": 1779468788,
+        "deleted": false,
+        "object": "item_family"
+    }
+}

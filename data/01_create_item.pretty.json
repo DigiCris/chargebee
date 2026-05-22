@@ -1,0 +1,22 @@
+{
+    "item": {
+        "id": "comunyt-demo-plan",
+        "name": "comunyt Demo Subscription",
+        "external_name": "comunyt Demo Subscription",
+        "status": "active",
+        "resource_version": 1779468842712,
+        "updated_at": 1779468842,
+        "item_family_id": "comunyt-family",
+        "type": "plan",
+        "is_shippable": false,
+        "is_giftable": false,
+        "enabled_for_checkout": true,
+        "enabled_in_portal": true,
+        "item_applicability": "all",
+        "metered": false,
+        "channel": "web",
+        "bundle_items": [],
+        "deleted": false,
+        "object": "item"
+    }
+}

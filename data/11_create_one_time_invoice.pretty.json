@@ -1,0 +1,8 @@
+{
+    "message": "charge item price must be present to create invoice. ",
+    "type": "invalid_request",
+    "api_error_code": "param_wrong_value",
+    "error_code": "param_invalid",
+    "error_msg": "charge item price must be present to create invoice. ",
+    "http_status_code": 400
+}

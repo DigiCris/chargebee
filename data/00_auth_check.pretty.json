@@ -1,0 +1,73 @@
+{
+    "list": [
+        {
+            "customer": {
+                "id": "cbdemo_peter",
+                "first_name": "Peter",
+                "last_name": "Wright",
+                "email": "peter.wright_AT_test.com@example.com",
+                "phone": "5556667777",
+                "company": "Greenplus Enterprises",
+                "auto_collection": "on",
+                "net_term_days": 0,
+                "allow_direct_debit": false,
+                "created_at": 1779395320,
+                "taxability": "taxable",
+                "updated_at": 1779395323,
+                "pii_cleared": "active",
+                "channel": "web",
+                "resource_version": 1779395323696,
+                "deleted": false,
+                "object": "customer",
+                "card_status": "valid",
+                "balances": [
+                    {
+                        "promotional_credits": 0,
+                        "excess_payments": 0,
+                        "refundable_credits": 700,
+                        "unbilled_charges": 0,
+                        "object": "customer_balance",
+                        "currency_code": "USD",
+                        "balance_currency_code": "USD"
+                    }
+                ],
+                "promotional_credits": 0,
+                "refundable_credits": 700,
+                "excess_payments": 0,
+                "unbilled_charges": 0,
+                "preferred_currency_code": "USD",
+                "mrr": 6667,
+                "primary_payment_source_id": "pm_16BfAlVKHxQbO75kI",
+                "payment_method": {
+                    "object": "payment_method",
+                    "type": "card",
+                    "reference_id": "tok_16BfAlVKHxQbO75kJ",
+                    "gateway": "chargebee",
+                    "gateway_account_id": "gw_AzqeixVKHxLfAAlB",
+                    "status": "valid"
+                }
+            },
+            "card": {
+                "status": "valid",
+                "gateway": "chargebee",
+                "gateway_account_id": "gw_AzqeixVKHxLfAAlB",
+                "first_name": "Peter",
+                "last_name": "Wright",
+                "iin": "401288",
+                "last4": "1881",
+                "card_type": "visa",
+                "funding_type": "not_known",
+                "expiry_month": 10,
+                "expiry_year": 2026,
+                "created_at": 1779395321,
+                "updated_at": 1779395321,
+                "resource_version": 1779395321087,
+                "object": "card",
+                "masked_number": "************1881",
+                "customer_id": "cbdemo_peter",
+                "payment_source_id": "pm_16BfAlVKHxQbO75kI"
+            }
+        }
+    ],
+    "next_offset": "[\"1779395320000\",\"70824214\"]"
+}

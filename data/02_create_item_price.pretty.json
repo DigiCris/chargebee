@@ -1,0 +1,26 @@
+{
+    "item_price": {
+        "id": "comunyt-demo-plan-usd-monthly",
+        "name": "comunyt Demo Plan USD Monthly",
+        "item_family_id": "comunyt-family",
+        "item_id": "comunyt-demo-plan",
+        "status": "active",
+        "external_name": "comunyt Demo Plan USD Monthly",
+        "pricing_model": "flat_fee",
+        "price": 1000,
+        "period": 1,
+        "currency_code": "USD",
+        "period_unit": "month",
+        "free_quantity": 0,
+        "channel": "web",
+        "resource_version": 1779468901361,
+        "updated_at": 1779468901,
+        "created_at": 1779468901,
+        "is_taxable": true,
+        "item_type": "plan",
+        "show_description_in_invoices": false,
+        "show_description_in_quotes": false,
+        "deleted": false,
+        "object": "item_price"
+    }
+}
